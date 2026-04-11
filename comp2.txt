@@ -1,0 +1,4 @@
+Ken:inglese,svedese:tennis,golf:44
+Evonne:inglese:tennis,sci:39
+Ada:russo,francese,italiano::91
+Kurt:tedesco,inglese,latino:golf:48

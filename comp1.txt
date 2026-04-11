@@ -1,0 +1,25 @@
+Carlo:inglese,francese:sci,tennis:27
+Alessandro:spagnolo:tennis:21
+Marzia:latino,inglese,tedesco:sci,pallavolo:19
+Federico:inglese:calcio:24
+Luca:francese,russo:calcio,sci:28
+Chiara:inglese,francese:pallavolo,sci,tennis:20
+Andrea:francese,spagnolo:sci,atletica leggera:28
+Marco:inglese:tennis,calcio:18
+Marco:latino,tedesco:rugby,pallavolo:20
+Cosimo Carlo:inglese,tedesco:tennis,calcio:19
+Ida:spagnolo,portoghese:softball,pallavolo:9
+Marco:tedesco,spagnolo:calcio:21
+Yoel:francese:sci,nuoto,tennis:26
+Alessandro:inglese,latino,russo:tennis,basket,pallavolo:21
+Cesare:tedesco,francese:calcio,basket:24
+Michele:francese::23
+Elia Arturo:spagnolo,tedesco:sci:26
+Tommaso:inglese:rugby,basket:23
+Emiliano:tedesco,russo,latino:sci,pallavolo:28
+Duilio:inglese,polacco:tennis,calcio:25
+Anna:greco,inglese:pallavolo,rugby:29
+Fabio:tedesco,russo:tennis,pallavolo:26
+Matilde:latino,greco,italiano:pallavolo,scherma:21
+Wilhelm:tedesco,latino:calcio,sci di fondo:30
+Olga:russo,bulgaro:tennis,scherma:24
