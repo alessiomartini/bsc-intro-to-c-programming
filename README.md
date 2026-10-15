@@ -72,7 +72,7 @@ course content.
 
 ## Related repositories
 
-- [`computational-physics-exercises-unimib`](https://github.com/alessiomartini/computational-physics-exercises-unimib)
+- [`bsc-computational-physics-exercises`](https://github.com/alessiomartini/bsc-computational-physics-exercises)
   — where this C ends up being used: twenty numerical-methods exercises.
-- [`highschool-programming-archive`](https://github.com/alessiomartini/highschool-programming-archive)
+- [`archive-highschool-programming`](https://github.com/alessiomartini/archive-highschool-programming)
   — the earlier, high-school programming archive (Python, web, Raspberry Pi).
