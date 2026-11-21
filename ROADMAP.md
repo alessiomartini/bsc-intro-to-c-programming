@@ -1,13 +1,14 @@
 # Roadmap
 
 <!--
-Letto automaticamente da Projects Overview (https://alessiomartini.github.io/projects-overview/):
-ogni titolo "##" è una fase, le checkbox "- [ ]" / "- [x]" danno la percentuale di avanzamento,
-"## Log" è il diario (una riga per giorno, la più recente in alto).
+Read automatically by Projects Overview (https://alessiomartini.github.io/projects-overview/):
+each "##" heading is a phase, the "- [ ]" / "- [x]" checkboxes give the progress percentage,
+"## Log" is the diary (one line per day, most recent on top).
 -->
 
-## Fatto
-- [x] Slide, programmi in C ed esercitazioni del corso (2021)
+## Done
+- [x] Slides, C programs and exercise sessions of the course (2021)
 
 ## Log
-- 2026-10-15: creata la roadmap per Projects Overview
+- 2026-11-21: 🤖 ROADMAP translated to English (language rule: projects in English or bilingual EN/IT).
+- 2026-10-15: created the roadmap for Projects Overview
